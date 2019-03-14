@@ -54,7 +54,7 @@ dd::after {
     content: ""; 
     display: block; 
     clear: both; 
-    margin-bottom: -15px;}
+    margin-bottom: 15px;}
 
 .price {
     float: right; 
